@@ -4,3 +4,12 @@
 🚀 Apaixonado por programação e desenvolvimento web<br>
 🎯 Atualmente aprendendo JavaScript, HTML, CSS e C++<br>
 📍 Brasil<br>
+
+### 📘 Aprendendo Atualmente 
+**Linguagens** |
+--- |
+* HTML 
+* CSS 
+* JavaScript 
+* C 
+* C++ 
