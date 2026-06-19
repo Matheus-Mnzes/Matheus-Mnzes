@@ -1,4 +1,4 @@
-# Olá, eu sou Matheus de Menezes
+# Hi, I´m Matheus de Menezes
 
 💻 Estudante de Engenharia de Software<br>
 🚀 Apaixonado por programação e desenvolvimento web<br>
