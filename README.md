@@ -1,5 +1,5 @@
 # 🖐️ Hi, I´m Matheus de Menezes
-
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="120"/>
 💻 Estudante de Engenharia de Software<br>
 🚀 Apaixonado por programação e desenvolvimento web<br>
 🎯 Atualmente aprendendo JavaScript, HTML, CSS e C++<br>
