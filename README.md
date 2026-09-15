@@ -1,6 +1,6 @@
 #  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I´m Matheus de Menezes
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/393.gif" width="120"/>
 
   💻 Estudante de Engenharia de Software<br>
   🚀 Apaixonado por programação e desenvolvimento web<br>
