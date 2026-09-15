@@ -17,7 +17,6 @@
   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
   
   ### Ferramentas
@@ -27,6 +26,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 </div>  
   
   ## 📖 Cursos
@@ -38,6 +38,7 @@
   <img src="https://www.google.com/s2/favicons?domain=cursoemvideo.com&sz=32" width="20"/> Curso em Vídeo | Curso de Javascript | Em progresso 🔄
   <img src="https://github.com/user-attachments/assets/0d59a8d8-aa76-4210-a123-64d9590006b0" width="20"/> UniBrasil | Graduação em Engenharia de Software | Em Progresso 🔄
 </div>
+<br><br>
 
 <div align="center">
 
