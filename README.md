@@ -45,18 +45,18 @@
   <a href="https://github-stats-extended.vercel.app/api?username=Matheus-Mnzes">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api?username=Matheus-Mnzes&theme=dark_github"
+        srcset="https://github-stats-extended.vercel.app/api?username=Matheus-Mnzes&theme=dark_github&nocache=true"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api?username=Matheus-Mnzes&theme=light_github" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Matheus-Mnzes&theme=light_github&nocache=true" />
     </picture>
   </a>
   
   <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Matheus-Mnzes&langs_count=4&theme=dark_github"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Matheus-Mnzes&langs_count=4&theme=dark_github&nocache=true"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Matheus-Mnzes&langs_count=4&theme=light_github" alt="Top Langs" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Matheus-Mnzes&langs_count=4&theme=light_github&nocache=true" alt="Top Langs" />
     </picture>
   
