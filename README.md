@@ -36,6 +36,7 @@
   ---|---|---
   <img src="https://www.google.com/s2/favicons?domain=cursoemvideo.com&sz=32" width="20"/> Curso em Vídeo | Curso de Git e Github | Concluído ✅
   <img src="https://www.google.com/s2/favicons?domain=cursoemvideo.com&sz=32" width="20"/> Curso em Vídeo | Curso de Javascript | Em progresso 🔄
+   <img src="https://www.google.com/s2/favicons?domain=cursoemvideo.com&sz=32" width="20"/> Curso em Vídeo | Curso Grátis de Inteligência Artificial | Em progresso 🔄
   <img src="https://github.com/user-attachments/assets/0d59a8d8-aa76-4210-a123-64d9590006b0" width="20"/> UniBrasil | Graduação em Engenharia de Software | Em Progresso 🔄
 </div>
 <br><br>
